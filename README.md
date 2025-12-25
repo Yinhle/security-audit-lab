@@ -1,2 +1,2 @@
 # security-audit-lab
-Cybersecurity projects
+Cybersecurity projects including security auditing, risk assessment and policy recommendations.
